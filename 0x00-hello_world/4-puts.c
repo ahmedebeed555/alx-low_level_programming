@@ -2,7 +2,7 @@
 
 /*
  *
- * main - main function 
+ * main - function
  *
  */
 

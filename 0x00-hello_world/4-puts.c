@@ -2,7 +2,7 @@
 
 /*
  *
- * main - function
+ * main - entry point
  *
  */
 

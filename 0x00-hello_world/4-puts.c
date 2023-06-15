@@ -1,11 +1,10 @@
 #include <stdio.h>
 
-/*
- * main - entry point
+/**
+ * main - Entry point
  *
- * Return:
+ * 
  */
-
 
 int main(void)
 {

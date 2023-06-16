@@ -13,7 +13,9 @@ int main(void)
 for (n = 'a'; n <= 'z'; n++)
 {
 if(n != ('q' || 'e')
+{
 putchar(n);
+}
 }
 putchar('\n');
 	return (0);

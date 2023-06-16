@@ -2,10 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *main - Entry point
+ * main - Entry point
  *
  *
- *return: returns (0)
+ * return: returns (0) success
  */
 int main(void)
 {

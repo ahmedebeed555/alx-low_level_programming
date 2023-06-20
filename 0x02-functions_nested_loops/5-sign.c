@@ -3,11 +3,8 @@
   * prin_sign - Check sign of number
   * @n: The number to check
   *
-  * Return: 1 for n > 0
+  * Return: 1 for n > 0, 0 for n = zero, -1 for n < 0
   *
-  * Return: 0 of input 0
-  *
-  * Return: -1 for n < 0
   */
 int print_sign(int n)
 {

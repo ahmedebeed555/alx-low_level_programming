@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-  * _isalpha - Check if alphabetic character
+  * prin_sign - Check sign of number
   * @n: The number to check
   *
   * Return: 1 for n > 0

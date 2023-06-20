@@ -1,7 +1,7 @@
 #include "main.h"
 /**
   * _isalpha - Check if alphabetic character
-  * n: The number to check
+  * @n: The number to check
   *
   * Return: 1 for n > 0
   *

@@ -2,9 +2,9 @@
 /**
  * add - adds two integers
  *
- * @x - first integer
+ * @x: first integer
  *
- * @y - second integer
+ * @y: second integer
  *
  * Return: sum of x and y
  *

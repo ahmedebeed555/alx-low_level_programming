@@ -8,7 +8,7 @@
  *
  *
  */
-void rev_string(char *s);
+void rev_string(char *s)
 {
 int len = 0 , j;
 char t[len];
